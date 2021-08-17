@@ -53,6 +53,11 @@ a:hover {
     border-bottom: 20px solid #FDB515;
 }
 
+.text-yellow {
+    color: #FDB515;
+    font-weight: bold;
+}
+
 #download-icon {
     font-size: 20px;
 }
