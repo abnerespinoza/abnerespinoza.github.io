@@ -1,0 +1,136 @@
+body {
+    color: #003262;
+    font-family: 'Roboto', Verdana, sans-serif;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FDB515;
+}
+
+h3 {
+    font-size: 130%;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    border: 0.1em solid #ccc; 
+
+    margin-top: 0.1em; 
+    margin-bottom: 1em; 
+}
+
+input[type=submit] {
+    color: white;
+    background-color: #003262;
+
+    border: none;
+    border-radius: 5px;
+
+    padding: 0.25em 2em;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #005A9C;
+}
+
+input {
+    text-align: center;
+}
+
+.text-yellow {
+    color: #FDB515;
+    font-weight: bold;
+}
+
+#header-main {
+    background-color: aliceblue;
+    border-bottom: 1em solid #003262;
+
+    padding-bottom: 3%;
+    margin-top: 10%;
+}
+
+#portrait {
+    height: 12em;
+    width: 12em;
+    border: 0.1em solid #FDB515; 
+
+    padding: 0;
+    margin-top: -5%;
+}
+
+#name {
+    margin-top: 2%;
+    font-size: 350%;
+    font-weight: bold;
+}
+
+#education {
+    font-size: 120%;
+}
+
+#contact {
+    margin-top: 2%;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+#main-about {
+    margin-top: 2%;
+
+    background-color: aliceblue;
+    border-bottom: 1em solid #FDB515;
+
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#main-projects {
+    margin-top: 2%;
+
+    background-color: aliceblue;
+    border-bottom: 1em solid #003262;
+
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#first-project {
+    margin-top: 0.5em;
+}
+
+#form-section {
+    margin-top: 2%;
+
+    border-bottom: 1em solid #FDB515;
+    background-color: aliceblue;
+
+    padding-top: 0.75em;
+    padding-bottom: 1.3em;
+}
+
+#form {
+    margin-top: 1em;
+}
+
+#footer-main {
+    margin-top: 2%;
+
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+
+    background-color: aliceblue;
+    border-bottom: 1em solid #FDB515;
+
+    margin-bottom: 3%;
+}
